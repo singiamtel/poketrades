@@ -45,7 +45,7 @@ const CTS = () => {
   });
   const [evs, setEvs] = useState<any>({
     ev_HP: 0,
-    ev_Atk: 31,
+    ev_Atk: 0,
     ev_Def: 0,
     ev_SpA: 0,
     ev_SpD: 0,

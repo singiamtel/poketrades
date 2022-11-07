@@ -8,7 +8,7 @@ const Header: FunctionComponent = () => {
 
 	const togglePopup = (e: SyntheticEvent) => {
 		e.preventDefault()
-		setShowPopup(!showPopup)
+		// setShowPopup(!showPopup)
 	}
 
 	return <div className={styles.container}>
