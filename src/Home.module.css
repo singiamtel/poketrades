@@ -1,0 +1,17 @@
+.container {
+  padding: 0 2rem;
+  /* height:300px; */
+}
+
+.carousel{
+	padding:4rem;
+	font-size:1.25rem;
+	margin-top: 2rem;
+}
+
+
+@media screen and (max-width: 768px){
+	.carousel{
+		font-size:1rem;
+	}
+}
